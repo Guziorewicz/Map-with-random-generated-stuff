@@ -3,7 +3,7 @@
 
 ///// Setup
 
-Need to have `npm`, `npx` and `ts` installed
+Need to have `npm`, `node`, `npx` and `ts` installed
 
 Run `npm install @faker-js/faker` to get the random values for classes
 
