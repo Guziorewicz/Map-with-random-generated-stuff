@@ -18,7 +18,7 @@ I used Parcel to compile .ts file and run in on localhost.
 To generate random data for this project I used `faker` package.
 
 In this app I used API key from Google Developer.
-Creating an API key requires a Google Developer account with billing enabled. I don't wanted to use that in my app so I used API provided from course master. The API key is `AIzaSyBNLrJhOMz6idD05pzfn5lhA-TAw-mAZCU`
+Creating an API key requires a Google Developer account with billing enabled. I don't wanted to use that in my app so I used API provided from course master.
 
 To open the main file index.html run command `npx parcel index.html`
 that runs script localy, there will be two pointers that presents random values for User and Company
